@@ -1,0 +1,8 @@
+tensorflow
+scikit-learn
+opencv-python
+dlib
+h5py
+imutils
+keras
+numpy
